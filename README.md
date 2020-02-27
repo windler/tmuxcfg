@@ -2,7 +2,7 @@
 Personal tmux config
 
 ## Pre reqs
-* `git clone https://github.com/jimeh/tmux-themepack.git ~/.tmux-themepack`
+* `git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
 * `apt-get install xclip` (linux)
 
 ## Installation
