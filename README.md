@@ -2,7 +2,7 @@
 Personal tmux config
 
 ## Pre reqs
-* `git clone https://github.com/jimeh/tmux-themepack.git ~/.tmux-themepack`i
+* `git clone https://github.com/jimeh/tmux-themepack.git ~/.tmux-themepack`
 * `apt-get install clipx` (linux)
 
 ## Installation
