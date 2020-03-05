@@ -28,3 +28,5 @@ Personal tmux config
 * `<prefix>-H/J/K/L`: resize panes
 * `<prefix>-m`: toggle mouse on
 * `<prefix>-M`: toggle mouse off
+* `<prefix>-Ctrl+s`: save tmux environment (resurrect)
+* `<prefix>-Ctrl+r`: reload tmux environment (resurrect)
